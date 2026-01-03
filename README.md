@@ -4,7 +4,8 @@ A comprehensive data analytics dashboard built to analyze Spotify songs, artists
 
 This project transforms raw Spotify metadata into actionable insights for understanding music consumption, artist performance, and content trends across time.
 
-<img width="1456" height="819" alt="Artist" src="https://github.com/user-attachments/assets/a4139802-fef2-4e13-9b56-d0d9cf17c6bf" />
+<img width="1275" height="713" alt="Cover" src="https://github.com/user-attachments/assets/5e0b3e60-fcbf-4dfc-9e5a-f6e585bea549" />
+
 
 # 📌 Project Overview
 
