@@ -4,6 +4,8 @@ A comprehensive data analytics dashboard built to analyze Spotify songs, artists
 
 This project transforms raw Spotify metadata into actionable insights for understanding music consumption, artist performance, and content trends across time.
 
+<img width="1456" height="819" alt="Artist" src="https://github.com/user-attachments/assets/a4139802-fef2-4e13-9b56-d0d9cf17c6bf" />
+
 # 📌 Project Overview
 
 This dashboard provides an end-to-end analytical view of Spotify’s music ecosystem, enabling users to:
@@ -44,7 +46,7 @@ Songs by album type and release year
 
 Monthly popularity trends
 
-📸 Preview:
+📸 Preview: <img width="1452" height="817" alt="Overview" src="https://github.com/user-attachments/assets/32424397-e9ab-45ab-b78d-a8abccac1a8d" />
 
 
 2️⃣ Artists Analysis
@@ -57,7 +59,7 @@ Average tracks per album
 
 Artist-level drill-down table
 
-📸 Preview:
+📸 Preview: <img width="1456" height="819" alt="Artist" src="https://github.com/user-attachments/assets/3b4074ff-725e-468c-a7cc-205207e9ef1c" />
 
 
 3️⃣ Songs Analysis
@@ -70,18 +72,7 @@ Song-level metrics table
 
 Performance comparison across tracks
 
-📸 Preview:
-
-
-4️⃣ Interactive Music Player (UI Feature)
-
-Dynamic artist & song selection
-
-Spotify-style playback UI (visual feature)
-
-Contextual analytics linked to selected artist/song
-
-📸 Preview:
+📸 Preview: <img width="1454" height="815" alt="Songs" src="https://github.com/user-attachments/assets/1bfdc780-f85d-4d8d-8135-8cd92aaa1d95" />
 
 
 # 🛠️ Tools & Technologies Used
