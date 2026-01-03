@@ -114,7 +114,7 @@ Duration (minutes)
 
 Dataset cleaned and transformed before visualization.
 
-👤 Author
+# 👤 Author
 
 Kartik Pathak
 MBA – Business Analytics
