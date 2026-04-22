@@ -111,7 +111,3 @@ Dataset cleaned and transformed before visualization.
 Kartik Pathak
 MBA – Business Analytics
 Aspiring Business / Product Analyst
-
-# Credit 
-The Developer 
-https://www.youtube.com/@The-Developer-BI
